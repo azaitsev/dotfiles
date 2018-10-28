@@ -1,0 +1,9 @@
+[push]
+	default = simple
+[user]
+	name = Alexander Zaitsev
+	email = azaitsev@gmail.com
+[alias]
+	co = checkout
+	cm = commit
+	st = status
